@@ -2,7 +2,7 @@ body{
 	margin:0;
     background-image: url('train.jpg');
   background-size:cover;
-  background-repeat: no-repeat;
+  background-repeat:no-repeat;
      font-family:sans-serif;
    }
    a {
